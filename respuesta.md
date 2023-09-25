@@ -71,3 +71,5 @@ Via: 1.1 vegur
 
 Respuesta:
 Si, le dice que devolvera un archivo texto, con 481 caracteres; que esta hecho en ruby.
+
+Las cookies son seguras mediante el protocolo de seguridad HTTPS:
