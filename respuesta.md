@@ -7,8 +7,11 @@ Pregunta:¿Cuáles son las dos diferencias principales que has visto anteriormen
 (base) pcs5@pcs5-HP-EliteDesk-800-G4-SFF:~$ curl 'http://randomword.saasbook.info'
 
 (base) pcs5@pcs5-HP-EliteDesk-800-G4-SFF:~/Documentos/Trabajo1$ curl 'http://randomword.saasbook.info' >Trabajo1.html
+  
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 
                                  Dload  Upload   Total   Spent    Left  Speed
+
 100   480  100   480    0     0   1651      0 --:--:-- --:--:-- --:--:--  1655
 
 Pregunta: Suponiendo que estás ejecutando curl desde otro shell ¿qué URL tendrás que pasarle a curl para intentar acceder a tu servidor falso y por qué?
