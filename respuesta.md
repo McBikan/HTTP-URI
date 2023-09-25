@@ -69,4 +69,5 @@ Server: WEBrick/1.4.2 (Ruby/2.6.6/2020-03-31)
 Date: Mon, 25 Sep 2023 16:43:28 GMT
 Via: 1.1 vegur
 
-
+Respuesta:
+Si, le dice que devolvera un archivo texto, con 481 caracteres; que esta hecho en ruby.
